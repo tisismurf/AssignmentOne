@@ -2,7 +2,7 @@
 
 
 This is a .NET Console Application that asks a series of questions to the user and calculates the human hours to be consumed by the class.
-The application will the re-loop through the questions in V1.0.  
+The application will then re-loop through the questions in V1.0.  
 
 Questions for the README:
 
